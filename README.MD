@@ -1,0 +1,1 @@
+This repository was made for teaching purposes. All projects provided in this repository were create while following Angular in Action book.
